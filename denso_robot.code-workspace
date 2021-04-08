@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "denso_robot_ros"
+		}
+	],
+	"settings": {
+		"python.autoComplete.extraPaths": [
+			"/home/xueyelin/test2_ws/devel/lib/python2.7/dist-packages",
+			"/opt/ros/melodic/lib/python2.7/dist-packages"
+		]
+	}
+}
